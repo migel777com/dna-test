@@ -1,0 +1,15 @@
+{
+    "host":"localhost",
+    "port":8080,
+
+    "dbHost":"localhost",
+    "dbUser":"postuser",
+    "dbName":"dna",
+    "dbPass":"Jv#/TWw3",
+    "dbPort":5432,
+    "dbMode":"disable",
+    "dbLogMode":false,
+
+    "cacheHost":"localhost:6379",
+    "cachePass":"barabaltika9"
+}
